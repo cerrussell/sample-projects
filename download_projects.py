@@ -4,7 +4,7 @@ from subprocess import Popen, PIPE
 
 from lastversion import lastversion
 
-os.environ['GITHUB_API_TOKEN'] = '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'
+os.environ['GITHUB_API_TOKEN'] = ''
 
 
 class Projects:
